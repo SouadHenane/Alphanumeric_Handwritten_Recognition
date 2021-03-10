@@ -1,6 +1,6 @@
 ### ATTENTION: VERY SLOW TO BUILD ON JETSON-NANO
 ### You can use the image (based on this dockerfile) from Docker Hub
-### https://hub.docker.com/r/imadelh/jetson_pytorch_flask
+
 
 
 ### version of ubuntu 
